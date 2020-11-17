@@ -19,14 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a57d5c7b-4a0e-453a-8331-8eb8d5ff84ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/group.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ishan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/theif1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/theif2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="a57d5c7b-4a0e-453a-8331-8eb8d5ff84ef" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/images/safetymaxbutton.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -67,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605436619905</updated>
-      <workItem from="1605436621946" duration="3051000" />
+      <workItem from="1605436621946" duration="3493000" />
+      <workItem from="1605617111286" duration="1617000" />
     </task>
     <servers />
   </component>
@@ -84,5 +82,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1605441226151">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1605441226151" />
   </component>
 </project>
